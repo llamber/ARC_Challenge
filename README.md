@@ -1,6 +1,6 @@
 # ARC_Challenge
 
-## Liens vers les notesbooks sur Kaggle 
+## Liens vers les notebooks sur Kaggle 
 
 * SVM
 
