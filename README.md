@@ -2,11 +2,11 @@
 
 ## Liens vers les notesbooks sur Kaggle 
 
-###SVM
+* SVM
 
 https://www.kaggle.com/idonotknowanything/svm-featuring-coord-colors
 
-###CNN
+* CNN
 
 https://www.kaggle.com/florianval/task-tagging-classification
 
@@ -17,5 +17,7 @@ https://poce-my.sharepoint.com/:v:/g/personal/ludovic_lambert_edu_ece_fr/ERW9d1l
 ## Lien vers l'article Medium 
 
 https://medium.com/@lululamber/how-we-tried-to-solve-one-of-the-biggest-issues-in-machine-learning-b65fe51c82c7
+
+## Lien vers les slides de la soutenance
 
 https://poce-my.sharepoint.com/:p:/g/personal/ludovic_lambert_edu_ece_fr/EfJ_vAfQIvJLhEJgX0YBW_8B-ifFKV13yyx1ld5IgS19uA?e=glm5zv
