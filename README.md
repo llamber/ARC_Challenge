@@ -20,4 +20,4 @@ https://medium.com/@lululamber/how-we-tried-to-solve-one-of-the-biggest-issues-i
 
 ## Lien vers les slides de la soutenance
 
-https://poce-my.sharepoint.com/:p:/g/personal/ludovic_lambert_edu_ece_fr/EfJ_vAfQIvJLhEJgX0YBW_8B-ifFKV13yyx1ld5IgS19uA?e=glm5zv
+https://poce-my.sharepoint.com/:p:/g/personal/ludovic_lambert_edu_ece_fr/EfJ_vAfQIvJLhEJgX0YBW_8B-G66UXCk5-a7hc4LeKUCTg?e=1uES2L
